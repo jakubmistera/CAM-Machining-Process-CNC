@@ -6,7 +6,7 @@ Projekt inżynierski polegający na opracowaniu kompletnej technologii wytwarzan
 Opracowanie trójetapowego procesu technologicznego (toczenie i frezowanie) dla zadanego detalu. Głównym założeniem było wygenerowanie bezkolizyjnego programu obróbkowego oraz optymalizacja czasu maszynowego przy zachowaniu wymagań rysunku technicznego.
 
 ## 🛠 Wykorzystane technologie i oprogramowanie
-* **System CAM:** [Wpisz nazwę programu, np. Siemens NX CAM / SolidCAM / Mastercam] (Generowanie ścieżek narzędzia, symulacja bryłowa).
+* **System CAM:** SolidCAM (Generowanie ścieżek narzędzia, symulacja bryłowa).
 * **Dobór narzędzi i parametrów:** Sandvik CoroPlus® ToolGuide (optymalizacja Vc, fz, ap).
 * **Środowisko maszynowe:** Obrabiarka CNC HAAS VF-1.
 
